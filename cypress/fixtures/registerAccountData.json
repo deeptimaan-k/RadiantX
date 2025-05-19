@@ -1,0 +1,17 @@
+{
+  "login": {
+    "email": "radiant2522@gmail.com",
+    "password": "captain@123"
+  },
+
+  "name": {
+    "firstName": "Radiant",
+    "lastName": "Jadaun"
+  },
+  "email": "radiant2522@gmail.com",
+  "password": {
+    "password": "captain@123",
+    "confirmPassword": "captain@123"
+  },
+  "successFullCreateAccountMessage": "Thank you for registering with Main Website Store."
+}
